@@ -1,4 +1,5 @@
-baseURL: https://<zimu2001>.github.io/<ZMBLog>
+baseURL: https://zimu2001.github.io/ZMBLog
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"
+
